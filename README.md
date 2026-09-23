@@ -35,7 +35,8 @@ heart_disease_project/
 ├── model.ipynb
 ├── requirements.txt
 ├── README.md
-└── .gitignore
+└── .gitignore 
+```
 
 ---
 
@@ -61,11 +62,14 @@ The Logistic Regression model was trained and evaluated on a 20% stratified test
 ```bash
 git clone [https://github.com/Abdalrahman-Ebrahim/heart-disease-prediction.git](https://github.com/Abdalrahman-Ebrahim/heart-disease-prediction.git)
 cd heart-disease-prediction
+```
 
 ### 2. Set Up Environment & Install Dependencies
 ```bash
 pip install -r requirements.txt
+```
 
 ### 3. Launch the Streamlit App
 ```bash
 python -m streamlit run app.py
+```
