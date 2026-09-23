@@ -1,6 +1,10 @@
 # ❤️ Heart Disease Prediction App
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://heart-disease-pred-app.streamlit.app/)
+
 An end-to-end Machine Learning web application that predicts the likelihood of heart disease based on patient clinical parameters using a Logistic Regression classifier and Streamlit.
+
+🔗 **Live Demo:** [https://heart-disease-pred-app.streamlit.app/](https://heart-disease-pred-app.streamlit.app/)
 
 ---
 
